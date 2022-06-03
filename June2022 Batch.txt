@@ -1,0 +1,37 @@
+Python Installation:
+https://www.youtube.com/watch?v=-qNy92XbDEo
+
+Python Download:
+https://www.python.org/downloads/
+
+Eclipse Download:
+https://www.eclipse.org/downloads/packages/
+
+Anaconda Navigator:
+https://anaconda.org/anaconda/anaconda-navigator
+
+Pycharm Download:
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+Rishiz Students Youtube Channel:
+https://www.youtube.com/channel/UCF9m_Pd6yMp0Wph4mp1tbUw
+
+Basics of HTML:
+https://www.youtube.com/watch?v=ATmKiI6xuJI&list=PLb7yupkIhC6mBzVPp4dyqfroSZ5cvaWVu
+
+MySQL Installation Guide:
+https://www.youtube.com/watch?v=4Z4r8eGsEu8
+
+Week 1 Assignment:
+https://docs.google.com/forms/d/e/1FAIpQLSc7p7mjU9IVrdJ4iXNIPLSUhT6SXkM9vQVzcztecfhJxq6zgA/viewform
+
+SEDAP - First Project: Core Python
+https://www.youtube.com/watch?v=S0aSa0XmkkM&list=PLb7yupkIhC6lTp1ybgc1PINMaQvLVvSuK
+
+SAR - Final Project in Python:
+https://www.youtube.com/watch?v=EBt9V59mrxg
+
+Materials / Code & Other Content Link:
+https://github.com/javarishi/PythonJune2022
+
+
