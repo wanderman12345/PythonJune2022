@@ -1,7 +1,7 @@
 age = 21
 percent = 99.45
 complex_var = 5 + 6j
-name = "Niel Armstrong"
+name = 'Niel Armstrong'
 isValid = True
 
 print(age, type(age))
